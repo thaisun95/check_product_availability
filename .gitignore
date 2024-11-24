@@ -1,0 +1,19 @@
+# Fichiers de configuration sensibles
+config.json
+
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Environnements virtuels
+venv/
+env/
+
+# Fichiers générés par des éditeurs/IDE
+.vscode/
+.idea/
+*.swp
